@@ -1,5 +1,5 @@
-# EU_CV_Easy_Styles
-A CV template in the EU format (not Europass!), with predefined styles, for an easier filling.
+# World Bank / EU CV Easy Styles
+A CV template in the World Bank / EU format (not Europass!), with predefined styles, for an easier filling.
 This is the format usually required if you are applying as a Consultants and/or Expert within European tenders.
 
 Use provided EU_CV_* 
